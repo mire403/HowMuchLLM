@@ -1,4 +1,4 @@
-## HowMuchLLM
+# HowMuchLLM
 
 **HowMuchLLM** 是一个专门帮你**估算 LLM 应用真实调用成本**的小工具。  
 一句话：**给我 tokens 和调用次数，我告诉你这堆模型要烧多少钱。**🔥
@@ -297,6 +297,7 @@ print(markdown)
   - 校对当前 currency / region / 计费方式
 
 欢迎直接在代码里魔改、fork、或内嵌到你自己的 AI Infra 工具链中，让「看懂 LLM 花了多少钱」变成一件顺手的小事 ✨。
+
 
 
 
