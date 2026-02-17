@@ -1,0 +1,4 @@
+prompt_tokens: 200
+completion_tokens: 400
+calls_per_month: 10000
+
