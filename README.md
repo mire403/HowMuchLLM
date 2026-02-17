@@ -302,6 +302,25 @@ print(markdown)
 
 欢迎直接在代码里魔改、fork、或内嵌到你自己的 AI Infra 工具链中，让「看懂 LLM 花了多少钱」变成一件顺手的小事 ✨。
 
+---
+
+## 👤 作者 (Author)
+
+**Haoze Zheng**
+
+*   🎓 **School**: Xinjiang University (XJU)
+*   📧 **Email**: zhenghaoze@stu.xju.edu.cn
+*   🐱 **GitHub**: [mire403](https://github.com/mire403)
+
+---
+
+<div align="center">
+
+**如果这个项目对你有帮助，请给个 ⭐ Star！**
+
+<sub>Made by Haoze Zheng. 2026 WebToProposal.</sub>
+
+</div>
 
 
 
