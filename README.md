@@ -318,9 +318,10 @@ print(markdown)
 
 **如果这个项目对你有帮助，请给个 ⭐ Star！**
 
-<sub>Made by Haoze Zheng. 2026 WebToProposal.</sub>
+<sub>Made by Haoze Zheng. 2026 HowMuchLLM.</sub>
 
 </div>
+
 
 
 
